@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Cricket Score Kata
 
 A game of [cricket](https://en.wikipedia.org/wiki/Cricket) is divided into sections of 6 balls, called **overs**.
